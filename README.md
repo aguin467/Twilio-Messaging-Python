@@ -1,9 +1,8 @@
 # Twilio-Messaging-Python
-Messaging via Twilio with Python3.8
 
-* This assumes that you know how to use the cli/terminal in GNU/Linux
+> This assumes that you know how to use the cli/terminal in GNU/Linux
 
-* This also assumes you have created an account on Twilio and obtained your twilio number
+> This also assumes you have created an account on Twilio and obtained your twilio number
 
 - Install python3.8 via cli in Linux or vis wsl
 ```
