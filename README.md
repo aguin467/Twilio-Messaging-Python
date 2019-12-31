@@ -1,8 +1,8 @@
 # Twilio-Messaging-Python
 
-> <blockquote> This assumes that you know how to use the cli/terminal in GNU/Linux </blockquote>
+> <i> This assumes that you know how to use the cli/terminal in GNU/Linux </i> 
 
-> <blockquote> This also assumes you have created an account on Twilio and obtained your twilio number </blockquote>
+> <i> This also assumes you have created an account on Twilio and obtained your twilio number </i> 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
