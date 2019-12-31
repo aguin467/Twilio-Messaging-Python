@@ -74,5 +74,5 @@ client = Client(
 
 - Finally run the code :shipit:
 ```
-python example.py
+python explore.py
 ```
