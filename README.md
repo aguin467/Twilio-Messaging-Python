@@ -1,4 +1,4 @@
-# Twilio-Messaging-Python 🐍
+# Twilio-Messaging-Python <sup><sub>🐍</sup></sub>
 
 > <i> This assumes that you know how to use the cli/terminal in GNU/Linux </i> 
 
