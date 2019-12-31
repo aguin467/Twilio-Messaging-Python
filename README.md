@@ -9,8 +9,7 @@
 ```
 sudo apt install python3.8 
 ```
-
-
+<p>&nbsp;
 
 - Install python3.8-venv via Linux or wsl cli
 ```
