@@ -16,49 +16,49 @@ sudo apt install python3.8
 sudo apt install python3.8-venv
 ```
 
-
+<p>&nbsp;
 
 - Create a folder for the python vitural environment 
 ```
 mkdir folder name
 ```
 
-
+<p>&nbsp;
 
 - Add the example.py file into the folder
 ```
 mv example.py /your/folder/directory
 ```
 
-
+<p>&nbsp;
 
 - CD into that folder name
 ```
 cd folder name
 ```
 
-
+<p>&nbsp;
 
 - Create the python vitural envrionment
 ```
 python -m venv .venv
 ```
 
-
+<p>&nbsp;
 
 - Open up your IDE via the command line
 ```
 code .
 ```
 
-
+<p>&nbsp;
 
 - Then run the command in the vscode terminal
 ```
 source ./.venv/bin/activate
 ```
 
-
+<p>&nbsp;
 
 - Make sure to input your account_sid and auth_token in the explore.py file
 ```
@@ -69,7 +69,7 @@ client = Client(
 
 ```
 
-
+<p>&nbsp;
 
 - Uncomment these lines of code to send messages to a phone number from your twilio number
 - Change the body of the message if you want
@@ -83,7 +83,7 @@ client = Client(
 #print(f"Created a new message: {msg.sid}");
 ```
 
-
+<p>&nbsp;
 
 - Make sure to comment out
 ```
@@ -92,7 +92,7 @@ client = Client(
 #    msg.delete();
 ```
 
-
+<p>&nbsp;
 
 - Finally run the code :shipit:
 ```
