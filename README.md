@@ -4,6 +4,8 @@
 
 > This also assumes you have created an account on Twilio and obtained your twilio number
 
+----------------------------------------------------------------------------------------------------------------------------------------
+
 - Install python3.8 via cli in Linux or vis wsl
 ```
 sudo apt install python3.8 
