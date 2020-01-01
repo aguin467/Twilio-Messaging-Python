@@ -46,6 +46,22 @@ python -m venv .venv
 
 <p>&nbsp;
 
+- Install the vitural environment
+
+```
+source ./.venv/bin/activate
+```
+
+<p>&nbsp;
+
+- Install twillio via pip in the venv from above
+
+```
+pip install twilio
+```
+
+<p>&nbsp;
+
 - Open up your IDE via the command line
 ```
 code .
